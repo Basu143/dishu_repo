@@ -1,0 +1,66 @@
+Hey, this is Will.
+And in this lesson, I will be showing you how to create
+GitHub forks.
+So here I am logged into github.com.
+And if you don't have a GitHub account,
+you're going to need to create one
+to progress with this course.
+And I'm going to show you what GitHub forks are
+and how we can go about creating them.
+And the first thing I'm going to do
+is I'm going to navigate to a particular repository,
+and that repository is going to be
+linuxacademy/cicd-pipeline-train-schedule/git.
+If you check the description below this video,
+you can find a link to that repository as well.
+I'm just going to go to that repository
+and I have the option here to click on this Fork button.
+And this is the Linux Academy version of this repository.
+And I have access to make changes to this repo,
+but you're not going to have access to make changes
+to this repo because everyone has to share this one repo.
+So if you want to make changes to this code,
+what you're going to want to do is create a fork.
+And what creating a fork does
+is it creates your own personal copy
+of this entire repository, not just the source code,
+but also all the change history and everything else
+that is associated with a git repository.
+So, I'm just going to click the Fork button
+and you may have to select this if this box pops up.
+Just select your account.
+But that box won't pop up for everyone,
+but I'm going to select my account.
+And after a few moments,
+it's going to create my personal fork of this repo.
+Now, you'll notice this is essentially the same repo.
+Everything in here looks the same, but if you look,
+it's not linuxacademy/cicd-pipeline.
+It is whboyd. That's my personal GitHub username.
+And then you can also see that in the URL up here
+at the top.
+That's my personal copy of this repo.
+In the next lesson,
+I'm going to be demonstrating
+how to work with git repositories.
+And in order to prepare for that,
+you're going to want to go ahead
+and create your own personal fork of this repository.
+And again, you can find that link
+in the description to this video.
+Now, one other useful feature that I want to show you
+is this Clone or download button.
+Later on, when you go to clone the repository,
+you have to utilize a special URL
+in order to tell git which repository you want to clone
+and to make things a little easier for yourself.
+You can click on this Clone or download button,
+and it will give you the SSH path to this repository.
+You can see it's just my username /cicd-pipeline.
+You can click this little icon here to copy that string
+when you get ready to clone your own fork of the repository.
+So, that's just a useful feature.
+You can type that URL out yourself,
+but it's just nice to be able to go here and copy it.
+So, that's how you create a fork
+of a Git repository in GitHub.
